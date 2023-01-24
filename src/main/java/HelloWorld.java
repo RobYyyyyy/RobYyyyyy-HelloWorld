@@ -16,3 +16,6 @@ public class HelloWorld {
         return "change me";
     }
 }
+    public String say ("hello world"){
+        return "Hello, world!";
+    }
